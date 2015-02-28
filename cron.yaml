@@ -1,0 +1,4 @@
+cron:
+- description: hoge
+  url: /tachikoma.php
+  schedule: every 24 hours

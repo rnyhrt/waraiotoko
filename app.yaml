@@ -4,5 +4,5 @@ runtime: php
 api_version: 1
 
 handlers:
-- url: /.*
-  script: tachikoma.php
+- url: /tachikoma.php
+  script: tachikoma/tachikoma.php
